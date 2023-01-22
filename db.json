@@ -1,7 +1,8 @@
 {
   "admins": [
-    {"email":"abc@gmail.com"},
+    {"email":"abc@gmail.com"}
   ],
+  
   "cart": [
     {
     "id": "CAR7CKAK",
