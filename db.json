@@ -1,6 +1,9 @@
 {
   "admins": [
-    {"email":"abc@gmail.com"}
+    {"email":"abc@gmail.com"},
+    {"email":"abcd@gmail.com"},
+    {"email":"abhishekojha@gmail.com"},
+    {"email":"prashantsingh@gmail.com"}
   ],
   
   "cart": [
